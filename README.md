@@ -219,7 +219,7 @@
 ## 📊 Top Languages
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eljefe213&langs_count=10&layout=compact&show_icons=true&theme=radical" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-orignal-nood&langs_count=10&layout=compact&show_icons=true&theme=radical" alt="Top Languages" />
 </p>
 
 ## 📊 GitHub Stats
