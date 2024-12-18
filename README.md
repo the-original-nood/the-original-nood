@@ -225,19 +225,19 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-    <a href="https://github.com/eljefe213?tab=repositories">
-        <img src="https://github-readme-stats.vercel.app/api?username=eljefe213&theme=dark&show_icons=true&count_private=true&hide_border=true" width="48%" alt="Abdelghani's GitHub Stats"/>
+    <a href="https://github.com/the-orignal-nood?tab=repositories">
+        <img src="https://github-readme-stats.vercel.app/api?username=the-orignal-nood&theme=dark&show_icons=true&count_private=true&hide_border=true" width="48%" alt="Abdelghani's GitHub Stats"/>
     </a>
-    <a href="https://github.com/eljefe213?tab=stars">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=eljefe213&theme=dark&hide_border=true" width="48%" alt="Abdelghani's GitHub Streak"/>
+    <a href="https://github.com/the-orignal-nood?tab=stars">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=the-orignal-nood&theme=dark&hide_border=true" width="48%" alt="Abdelghani's GitHub Streak"/>
     </a>
 </p>
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-    <a href="https://github.com/eljefe213?tab=achievements">
-        <img src="https://github-profile-trophy.vercel.app/?username=eljefe213&theme=onestar&no-frame=true&column=3&row=2" width="40%" alt="GitHub Trophies"/>
+    <a href="https://github.com/the-orignal-nood?tab=achievements">
+        <img src="https://github-profile-trophy.vercel.app/?username=the-orignal-nood&theme=onestar&no-frame=true&column=3&row=2" width="40%" alt="GitHub Trophies"/>
     </a>
 </p>
 
@@ -253,7 +253,7 @@
     <a href="https://www.linkedin.com/in/abdelghani-hamaz/">
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
     </a>
-    <a href="mailto:abdelghani.hamaz.pro@gmail.com">
+    <a href="mailto:a.hamaz@motoblouz.com">
         <img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
 </p>
